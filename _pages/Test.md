@@ -1,5 +1,5 @@
 ---
-title: " Home Page"
+title: " Home"
 layout: archive
 permalink: /Test/
 comments: false
