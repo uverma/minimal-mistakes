@@ -1,6 +1,6 @@
 ---
 title: " Home Page"
-layout: pages
+layout: archive
 permalink: /Test/
 comments: false
 ---
