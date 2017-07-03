@@ -13,12 +13,10 @@ Image Segmentation, Computer Vision, and Action Recognition
 
 ## Selected Publications
 -Ujjwal Verma, Florence Rossant and Isabelle Bloch,
-
 Segmentation and size estimation of tomatoes from sequences of paired images,
-
 _EURASIP Journal on Image and Video Processing_, Springer, vol 2015, no. 1, p. 33, 2015
 
-Impact Factor: 1.74
+**Impact Factor: 1.74**
 
 -Ujjwal Verma, Florence Rossant, Isabelle Bloch, Julien Orensanz, and Denis Boisgontier,
 
@@ -53,4 +51,3 @@ Manipal Institute of Technology,
 Manipal Univestity,
 
 Manipal, Karnataka (India)
-
