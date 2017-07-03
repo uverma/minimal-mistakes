@@ -1,9 +1,9 @@
 # main links
 main:
-  - title: "Home"
+  - title: "Bi"
     url: /
-  - title: "Bio"
-    url:  /Bio/
+ # - title: "Bio"
+  #  url:  /Bio/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
