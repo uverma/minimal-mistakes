@@ -1,8 +1,8 @@
 ---
-title:  "Blogs"
+title:  "Bio"
 layout: archive
 permalink: /
-author_profile: false
+author_profile: true
 comments: false
 ---
 
