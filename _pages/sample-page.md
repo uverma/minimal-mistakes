@@ -1,20 +1,26 @@
 ---
-title:  "About me"
+title: About me
 layout: archive
 permalink: /
 author_profile: true
 comments: false
+published: true
 ---
 
+## Research Interests:
+Image Segmentation, Computer Vision, and Action Recognition
 
 
-This is my blog page.
-This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:
+## Education:
+- Ph.D. from [Telecom ParisTech](https://www.telecom-paristech.fr/), [University of Paris-Saclay](https://www.universite-paris-saclay.fr/en), Paris (France) 
+		-	Dissertation Topic: > Analysis of Images in Precision Agriculture: Monitoring the Growth of
+Tomatoes
+- M.S. (Research) in Signal and Image Processing from [Telecom Bretagne](https://www.imt-atlantique.fr/) (France) 
 
-> Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi'a coladas. (And gettin' caught in the rain.)
+## Contact Information
+ 
+Department of Electronics and Communication Engineering,
+Manipal Institute of Technology,
+Manipal Univestity
+Manipal, Karnataka (India)
 
-...or something like this:
-
-> The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.
-
-You should probably delete this page and create new pages for your content. Have fun!
