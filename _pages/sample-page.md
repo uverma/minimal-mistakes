@@ -34,6 +34,11 @@ Tomatoes
 
 
 
+## Other Activities
+
+- Student Activities Chair, [IEEE Mangalore Sub-Section](www.ieee-mangalore.org)
+- Faculty Advisor, ISTE Students' Chapter Manipal
+
 
 
 
