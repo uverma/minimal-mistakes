@@ -45,9 +45,6 @@ Tomatoes
 ## Contact Information:
  
 Department of Electronics and Communication Engineering,
-
 Manipal Institute of Technology,
-
 Manipal Univestity,
-
 Manipal, Karnataka (India)
