@@ -195,8 +195,7 @@ whitelist:
   - jemoji
   
   
-  plugins:
-    - jekyll-seo-tag
+
 
 
 # Archives
