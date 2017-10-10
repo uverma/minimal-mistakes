@@ -193,8 +193,10 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  
+  
   plugins:
-  - jekyll-seo-tag
+    - jekyll-seo-tag
 
 
 # Archives
