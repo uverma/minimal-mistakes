@@ -8,3 +8,6 @@ published: true
 ---
 
 Research Interests: Image Segmentation, Action Recognition
+
+
+*To be updated*
