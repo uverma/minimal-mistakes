@@ -37,16 +37,16 @@ Tomatoes
 ## Funded Projects
 - Seed Money Grant (2017-18) from Manipal McGill Center for Infectious Diseases (Center of Excellence established 		  by Manipal University, India and McGill University, Montreal, Canada). 
 
-		Project Title: _PADS: Engineering Miniaturized Paper-based Analytical Devices for Point-of-Care (POC) 			diagnosis & antibiotic susceptibility of Candidiasis._
+	Project Title: _PADS: Engineering Miniaturized Paper-based Analytical Devices for Point-of-Care (POC) 			diagnosis & antibiotic susceptibility of Candidiasis._
 
-		Investigators: Dr. Naresh Mani, Dr. Prakash P.Y. and Dr. Ujjwal Verma
+	Investigators: Dr. Naresh Mani, Dr. Prakash P.Y. and Dr. Ujjwal Verma
 
 
 - Consultancy project with Cleed, Paris (France) (2017-18)
 
-		Project Title: _Apparel Classification for Intelligent Shopping Assistant._
+	Project Title: _Apparel Classification for Intelligent Shopping Assistant._
 
-		Investigators: Dr. Ujjwal Verma
+	Investigators: Dr. Ujjwal Verma
 
 
 
