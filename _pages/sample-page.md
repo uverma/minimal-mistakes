@@ -14,7 +14,7 @@ Image Segmentation, Computer Vision, and Action Recognition
 ## Selected Publications:
 -Ujjwal Verma, Florence Rossant and Isabelle Bloch,
 Segmentation and size estimation of tomatoes from sequences of paired images,
-_EURASIP Journal on Image and Video Processing_, Springer, vol 2015, no. 1, p. 33, 2015 (**Impact Factor: 1.74**)
+_EURASIP Journal on Image and Video Processing_, Springer, vol 2015, no. 1, p. 33, 2015 (**Impact Factor: 2.08**)
 
 -Ujjwal Verma, Florence Rossant, Isabelle Bloch, Julien Orensanz, and Denis Boisgontier,
 Segmentation of tomatoes in open field images with shape and temporal constraints,
@@ -23,6 +23,7 @@ eds.), vol. 9443 of Lecture Notes in Computer Science, pp. 162-178, Springer, 20
 
 
 ## Teaching:
+-Jan-May 2018: Computer Vision
 -August-Nov 2017: Motion and Geometry Based Methods in Computer Vision
 
 
@@ -33,10 +34,21 @@ Tomatoes
 - M.S. (Research) in Signal and Image Processing from [Telecom Bretagne](https://www.imt-atlantique.fr/) (France) 
 
 
+## Funded Projects
+-Seed Money Grant (2017-18) from Manipal McGill Center for Infectious Diseases (Center of Excellence established by Manipal University, India and McGill University, Montreal, Canada). 
+Project Title: _PADS: Engineering Miniaturized Paper-based Analytical Devices for Point-of-Care (POC) diagnosis & antibiotic susceptibility of Candidiasis._
+Investigators: Dr. Naresh Mani, Dr. Prakash P.Y. and Dr. Ujjwal Verma
+
+
+- Consultancy project with Cleed, Paris (France) (2017-18)
+Project Title: _Apparel Classification for Intelligent Shopping Assistant._
+Investigators: Dr. Ujjwal Verma
+
+
 
 ## Other Activities
 
-- Student Activities Chair, IEEE Mangalore Sub-Section (www.ieee-mangalore.org)
+- Student Activities Chair, [IEEE Mangalore Sub-Section](www.ieee-mangalore.org) 
 - Faculty Advisor, ISTE Students' Chapter Manipal
 
 
