@@ -23,8 +23,8 @@ eds.), vol. 9443 of Lecture Notes in Computer Science, pp. 162-178, Springer, 20
 
 
 ## Teaching:
--Jan-May 2018: Computer Vision
--August-Nov 2017: Motion and Geometry Based Methods in Computer Vision
+- Jan-May 2018: Computer Vision
+- August-Nov 2017: Motion and Geometry Based Methods in Computer Vision
 
 
 ## Education:
@@ -35,7 +35,7 @@ Tomatoes
 
 
 ## Funded Projects
--Seed Money Grant (2017-18) from Manipal McGill Center for Infectious Diseases (Center of Excellence established 		  by Manipal University, India and McGill University, Montreal, Canada). 
+- Seed Money Grant (2017-18) from Manipal McGill Center for Infectious Diseases (Center of Excellence established 		  by Manipal University, India and McGill University, Montreal, Canada). 
 
 		Project Title: _PADS: Engineering Miniaturized Paper-based Analytical Devices for Point-of-Care (POC) 			diagnosis & antibiotic susceptibility of Candidiasis._
 
