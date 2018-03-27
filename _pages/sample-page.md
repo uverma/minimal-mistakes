@@ -8,7 +8,7 @@ published: true
 ---
 
 ## Updates
-Honoured to receive "ISCA Young Scientist Award 2017-18" by Indian Science Congress Association. [Related Press Coverage](https://timesofindia.indiatimes.com/city/mangaluru/indian-science-congress-honours-mit-manipal-professor-with-young-scientist-award/articleshowprint/63447042.cms)
+Honoured to receive "ISCA Young Scientist Award 2017-18" by Indian Science Congress Association. [Related Press Coverage](https://timesofindia.indiatimes.com/city/mangaluru/indian-science-congress-honours-mit-manipal-professor-with-young-scientist-award/articleshow/63447042.cms)
 
 
 
