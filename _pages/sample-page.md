@@ -33,7 +33,7 @@ Received "ISCA Young Scientist Award 2017-18" by Indian Science Congress Associa
 
 ## Education:
 - Ph.D. from [Telecom ParisTech](https://www.telecom-paristech.fr/), [University of Paris-Saclay](https://www.universite-paris-saclay.fr/en), Paris (France) 
-		- *Dissertation Topic: Analysis of Images in Precision Agriculture: Monitoring the Growth of Tomatoes*
+	- *Dissertation Topic: Analysis of Images in Precision Agriculture: Monitoring the Growth of Tomatoes*
 - M.S. (Research) in Signal and Image Processing from [Telecom Bretagne](https://www.imt-atlantique.fr/) (France) 
 
 
