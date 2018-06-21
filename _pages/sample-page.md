@@ -12,7 +12,7 @@ Image Segmentation, Computer Vision, and Action Recognition
 
 
 ## Awards
-Received "ISCA Young Scientist Award 2017-18" by Indian Science Congress Association. *[Related Press Coverage: Click here](https://timesofindia.indiatimes.com/city/mangaluru/indian-science-congress-honours-mit-manipal-professor-with-young-scientist-award/articleshow/63447042.cms)*
+Received "ISCA Young Scientist Award 2017-18" by Indian Science Congress Association. *[Related Press Coverage: Click here]*(https://timesofindia.indiatimes.com/city/mangaluru/indian-science-congress-honours-mit-manipal-professor-with-young-scientist-award/articleshow/63447042.cms)
 
 ## Selected Publications:
 - Ujjwal Verma, Florence Rossant and Isabelle Bloch,
