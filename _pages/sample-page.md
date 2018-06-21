@@ -7,14 +7,12 @@ comments: false
 published: true
 ---
 
-## Updates
-Honoured to receive "ISCA Young Scientist Award 2017-18" by Indian Science Congress Association. [Related Press Coverage](https://timesofindia.indiatimes.com/city/mangaluru/indian-science-congress-honours-mit-manipal-professor-with-young-scientist-award/articleshow/63447042.cms)
-
-
-
 ## Research Interests:
 Image Segmentation, Computer Vision, and Action Recognition
 
+
+## Awards
+Received "ISCA Young Scientist Award 2017-18" by Indian Science Congress Association. [Related Press Coverage](https://timesofindia.indiatimes.com/city/mangaluru/indian-science-congress-honours-mit-manipal-professor-with-young-scientist-award/articleshow/63447042.cms)
 
 ## Selected Publications:
 - Ujjwal Verma, Florence Rossant and Isabelle Bloch,
@@ -28,13 +26,14 @@ Image Segmentation, Computer Vision, and Action Recognition
 
 
 ## Teaching:
+- July-Nov 2018: Motion and Geometry Based Methods in Computer Vision
 - Jan-May 2018: Computer Vision
 - August-Nov 2017: Motion and Geometry Based Methods in Computer Vision
 
 
 ## Education:
 - Ph.D. from [Telecom ParisTech](https://www.telecom-paristech.fr/), [University of Paris-Saclay](https://www.universite-paris-saclay.fr/en), Paris (France) 
-		-Dissertation Topic: > Analysis of Images in Precision Agriculture: Monitoring the Growth of
+		- Dissertation Topic: > Analysis of Images in Precision Agriculture: Monitoring the Growth of
 Tomatoes
 - M.S. (Research) in Signal and Image Processing from [Telecom Bretagne](https://www.imt-atlantique.fr/) (France) 
 
