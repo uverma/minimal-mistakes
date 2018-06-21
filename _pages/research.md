@@ -15,3 +15,12 @@ Research Interests: Image Segmentation, Action Recognition
 1. Apparel recognition (consultancy project): The objective of this project is to develop an image classifier to recognize the different type of clothes (Shirt, T-Shirt, etc.) and its attributes. The state of the art image recognition algorithms such as CNN's (Inception, ResNet) along with image segmentation is being employed in this project. This is a consultancy project financed by Cleed, Paris, France.
 
 2. Development of paper-based devices for fungal diagnosis: In this project, the microscopic fungal image is analyzed using image segmentation and recognition methods to identify the physiological and morphological characteristics of a fungus (_Candida Albicans_).  This interdisciplinary project (collaboration with experts from Microbiology (KMC) and Paper-based devices (MIT)) aims to develop a portable, low-cost fungal diagnostic device. This project is funded by Manipal McGill Center for Infectious Diseases (Center of Excellence established by Manipal University, India and McGill University, Montreal, Canada).
+
+
+## Invited Lectures
+1. Delivered an invited lecture on "Ethical Issues in Research Publication" at Saint Joseph Engineering College, Mangalore, India on 28th March 2018.
+2. Delivered an invited lecture titled "Human Action Recognition" at Recent Trends in Signal And Image Processing organized by Department of Electronics and Communication Engg, Manipal Institute of Technology, India on 6-7th October 2017.
+3. Delivered an invited lecture titled "Image Processing in Agriculture" at Plant Science Section, 102nd Session of Indian Science Congress Association held at Mumbai University, Mumbai (India).
+
+
+
