@@ -23,4 +23,16 @@ Research Interests: Image Segmentation, Action Recognition
 3. Delivered an invited lecture titled "Image Processing in Agriculture" at Plant Science Section, 102nd Session of Indian Science Congress Association held at Mumbai University, Mumbai (India).
 
 
+## Other Activities
+1. Students Activities Chair, IEEE Mangalore Sub-Section (2017)
+2. Website Chair, IEEE Mangalore Sub-Section (2018).
+3. Reviewer for IEEE Transactions on Image Processing.
+4. Reviewer for several international conferences (International Conference on Medical Image Computing and Computer Assisted Intervention MICCAI 2017, TENCON 2016- IEEE Region 10 Conference etc).
+5. Publicity Chair, [IEEE DISCOVER 2018](http://www.ieee-discover.org/) 
+
+
+
+
+
+
 
