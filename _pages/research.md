@@ -12,7 +12,7 @@ Research Interests: Image Segmentation, Computer Vision, and Action Recognition
 ## Projects
 
 
-1. Apparel recognition (consultancy project): The objective of this project is to develop an image classifier to recognize the different type of clothes (Shirt, T-Shirt, etc.) and its attributes. The state of the art image recognition algorithms such as CNN's (Inception, ResNet) along with image segmentation is being employed in this project. This is a consultancy project financed by Cleed, Paris, France.
+1. Apparel recognition : The objective of this project is to develop an image classifier to recognize the different type of clothes (Shirt, T-Shirt, etc.) and its attributes. The state of the art image recognition algorithms such as CNN's (Inception, ResNet) along with image segmentation is being employed in this project. This project is financed by Cleed, Paris, France.
 
 2. Development of paper-based devices for fungal diagnosis: In this project, the microscopic fungal image is analyzed using image segmentation and recognition methods to identify the physiological and morphological characteristics of a fungus (_Candida Albicans_).  This interdisciplinary project (collaboration with experts from Microbiology (KMC) and Paper-based devices (MIT)) aims to develop a portable, low-cost fungal diagnostic device. This project is funded by Manipal McGill Center for Infectious Diseases (Center of Excellence established by Manipal University, India and McGill University, Montreal, Canada).
 
@@ -28,11 +28,4 @@ Research Interests: Image Segmentation, Computer Vision, and Action Recognition
 2. Website Chair, IEEE Mangalore Sub-Section (2018).
 3. Reviewer for IEEE Transactions on Image Processing.
 4. Reviewer for several international conferences (International Conference on Medical Image Computing and Computer Assisted Intervention MICCAI 2017, TENCON 2016- IEEE Region 10 Conference etc).
-5. Publicity Chair, [IEEE DISCOVER 2018](http://www.ieee-discover.org/) 
-
-
-
-
-
-
-
+5. Publicity Chair, [IEEE DISCOVER 2018](http://www.ieee-discover.org/)
