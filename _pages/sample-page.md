@@ -40,14 +40,22 @@ Received "ISCA Young Scientist Award 2017-18" by Indian Science Congress Associa
 
 
 ## Funded Projects
+- Consultancy project with Cleed, Paris (France) (2017-18)
+	Project Title: _Apparel Classification for Intelligent Shopping Assistant._
+	Investigators: Dr. Ujjwal Verma
+  Brief Description:
+  - As in-charge, Computer Vision, Cleed, I am responsible for developing an algorithm for recognizing the different types of clothes (T-shirts, Shirts, etc) and its attributes.
+  - Used state of the art image recognition algorithms such as CNN's (ResNet, Inception) along with image segmentation.
+  - Dataset containing more than 2,00,000 image provided by Cleed. 
+  - This project is managed by Cleed (incubated at Telecom ParisTech Entrepreneurs), France
+  
+  
 - Seed Money Grant (2017-18) from Manipal McGill Center for Infectious Diseases (Center of Excellence established 		  by Manipal University, India and McGill University, Montreal, Canada). 
 	Project Title: _PADS: Engineering Miniaturized Paper-based Analytical Devices for Point-of-Care (POC) 			diagnosis & antibiotic susceptibility of Candidiasis._
 	Investigators: Dr. Naresh Mani, Dr. Prakash P.Y. and Dr. Ujjwal Verma
 
 
-- Consultancy project with Cleed, Paris (France) (2017-18)
-	Project Title: _Apparel Classification for Intelligent Shopping Assistant._
-	Investigators: Dr. Ujjwal Verma
+
 
 
 
