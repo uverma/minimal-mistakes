@@ -40,9 +40,9 @@ Received "ISCA Young Scientist Award 2017-18" by Indian Science Congress Associa
 
 
 ## Funded Projects
-- Consultancy project with Cleed, Paris (France) (2017-18)
-	Project Title: _Apparel Classification for Intelligent Shopping Assistant._
-	Investigators: Dr. Ujjwal Verma
+- Computer Vision project with Cleed, Paris (France) (2017-18)
+	- Project Title: _Apparel Classification for Intelligent Shopping Assistant._
+	- Investigators: Dr. Ujjwal Verma
   Brief Description:
   - As in-charge, Computer Vision, Cleed, I am responsible for developing an algorithm for recognizing the different types of clothes (T-shirts, Shirts, etc) and its attributes.
   - Used state of the art image recognition algorithms such as CNN's (ResNet, Inception) along with image segmentation.
