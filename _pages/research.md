@@ -7,7 +7,7 @@ comments: false
 published: true
 ---
 
-Research Interests: Image Segmentation, Deep Learning, Computer Vision, and Action Recognition
+Research Interests: Image Segmentation, Computer Vision, and Category Recognition
 
 ## Projects
 
