@@ -12,7 +12,7 @@ Research Interests: Image Segmentation, Computer Vision, and Category Recognitio
 ## Projects
 
 
-1. Apparel recognition : The objective of this project is to develop an image classifier to recognize the different type and subtypes of clothes (Shirt, T-Shirt, etc.) and its attributes. The state of the art image recognition algorithms such as CNN's (Inception, ResNet) along with image segmentation is being employed in this project. This project is financed by Cleed, Paris, France. As in charge, Computer Vision, Cleed, I am reponsible for development of the algorithm for apparel recongnition.
+1. Apparel recognition : The objective of this project is to develop an image classifier to recognize the different type and subtypes of clothes and its attributes. The state of the art image recognition algorithms such as CNN's (Inception, ResNet) along with image segmentation is being employed in this project. This project is financed by Cleed, Paris, France. As in charge, Computer Vision, Cleed, I am reponsible for development of the algorithm for apparel recongnition.
 
 2. Development of paper-based devices for fungal diagnosis: In this project, the microscopic fungal image is analyzed using image segmentation and recognition methods to identify the physiological and morphological characteristics of a fungus (_Candida Albicans_).  This interdisciplinary project (collaboration with experts from Microbiology (KMC) and Paper-based devices (MIT)) aims to develop a portable, low-cost fungal diagnostic device. This project is funded by Manipal McGill Center for Infectious Diseases (Center of Excellence established by Manipal University, India and McGill University, Montreal, Canada).
 
