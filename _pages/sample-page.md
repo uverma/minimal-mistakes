@@ -8,7 +8,7 @@ published: true
 ---
 
 ## Research Interests:
-Image Segmentation, Computer Vision, and Category Recognition
+Image Segmentation, Computer Vision, and Category Recognition 
 
 
 ## Awards
