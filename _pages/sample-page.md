@@ -21,7 +21,7 @@ Received "ISCA Young Scientist Award 2017-18" by Indian Science Congress Associa
 doi: 10.1109/ACCESS.2019.2941026  [PDF](https://github.com/uverma/uverma.github.io/blob/master/_data/IEEE%20Access%20GirishPgNb.pdf) [Project Page](https://github.com/uverma/ManipalUAVid)
 
 - Manohara Pai, Vaibhav Mehrotra, S. Aiyar, Ujjwal Verma and R. M. Pai, "Automatic Segmentation of River and Land in SAR Images: A Deep Learning Approach," _2019 IEEE Second International Conference on Artificial Intelligence and Knowledge Engineering (AIKE)_, Sardinia, Italy, 2019, pp. 15-20.
-doi: 10.1109/AIKE.2019.00011 [PDF] (https://github.com/uverma/uverma.github.io/blob/master/_data/AIKE-Vaibhav-2019.pdf)
+doi: 10.1109/AIKE.2019.00011 [PDF](https://github.com/uverma/uverma.github.io/blob/master/_data/AIKE-Vaibhav-2019.pdf)
 
 - Ujjwal Verma, Florence Rossant and Isabelle Bloch,
 	Segmentation and size estimation of tomatoes from sequences of paired images,
