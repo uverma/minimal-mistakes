@@ -72,7 +72,7 @@ doi: 10.1109/AIKE.2019.00011 [PDF](https://github.com/uverma/uverma.github.io/bl
 
 - Assistant Director (Research and Consultancy), Manipal Institute of Technology (2018-2019)
 - Joint Secretary,  [IEEE Mangalore Sub-Section](www.ieee-mangalore.org) (2019)
-- Student Activities Chair, [IEEE Mangalore Sub-Section](www.ieee-mangalore.org) (2018)
+- Student Activities Chair, [IEEE Mangalore Sub-Section](www.ieee-mangalore.org) (2017)
 - Faculty Advisor, ISTE Students' Chapter Manipal
 
 
