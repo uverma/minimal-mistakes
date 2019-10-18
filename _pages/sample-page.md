@@ -17,6 +17,12 @@ Received "ISCA Young Scientist Award 2017-18" by Indian Science Congress Associa
 
 
 ## Selected Publications:
+- S. Girisha, Manohara M. Pai, Ujjwal Verma and Radhika Pai, "Performance Analysis of Semantic Segmentation Algorithms for Finely Annotated New UAV Aerial Video Dataset (ManipalUAVid)," in _IEEE Access_, vol. 7, pp. 136239-136253, 2019.
+doi: 10.1109/ACCESS.2019.2941026  [PDF](https://github.com/uverma/uverma.github.io/blob/master/_data/IEEE%20Access%20GirishPgNb.pdf) [Project Page](https://github.com/uverma/ManipalUAVid)
+
+- Manohara Pai, Vaibhav Mehrotra, S. Aiyar, Ujjwal Verma and R. M. Pai, "Automatic Segmentation of River and Land in SAR Images: A Deep Learning Approach," _2019 IEEE Second International Conference on Artificial Intelligence and Knowledge Engineering (AIKE)_, Sardinia, Italy, 2019, pp. 15-20.
+doi: 10.1109/AIKE.2019.00011 [PDF] (https://github.com/uverma/uverma.github.io/blob/master/_data/AIKE-Vaibhav-2019.pdf)
+
 - Ujjwal Verma, Florence Rossant and Isabelle Bloch,
 	Segmentation and size estimation of tomatoes from sequences of paired images,
 	_EURASIP Journal on Image and Video Processing_, Springer, vol 2015, no. 1, p. 33, 2015 (**Impact Factor: 	  2.08**)
@@ -28,6 +34,8 @@ Received "ISCA Young Scientist Award 2017-18" by Indian Science Congress Associa
 
 
 ## Teaching:
+- July - Nov 2019: Motion and Geometry Based Methods in Computer Vision, Computer Organization and Architechture
+- Jan- May 2019: Computer Vision
 - July-Nov 2018: Motion and Geometry Based Methods in Computer Vision
 - Jan-May 2018: Computer Vision
 - August-Nov 2017: Motion and Geometry Based Methods in Computer Vision
@@ -62,7 +70,9 @@ Received "ISCA Young Scientist Award 2017-18" by Indian Science Congress Associa
 
 ## Other Activities
 
-- Student Activities Chair, [IEEE Mangalore Sub-Section](www.ieee-mangalore.org) 
+- Assistant Director (Research and Consultancy), Manipal Institute of Technology (2018-2019)
+- Joint Secretary,  [IEEE Mangalore Sub-Section](www.ieee-mangalore.org) (2019)
+- Student Activities Chair, [IEEE Mangalore Sub-Section](www.ieee-mangalore.org) (2018)
 - Faculty Advisor, ISTE Students' Chapter Manipal
 
 
@@ -72,5 +82,5 @@ Received "ISCA Young Scientist Award 2017-18" by Indian Science Congress Associa
  
 Department of Electronics and Communication Engineering,
 Manipal Institute of Technology,
-Manipal Univestity,
+Manipal Academy of Higher Education,
 Manipal, Karnataka (India)
