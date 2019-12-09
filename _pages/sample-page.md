@@ -13,17 +13,17 @@ Image Segmentation, Computer Vision, and Category Recognition
 
 ## Awards
 Received "ISCA Young Scientist Award 2017-18" by Indian Science Congress Association.
-- Related Press Coverage: [Click here](https://timesofindia.indiatimes.com/city/mangaluru/indian-science-congress-honours-mit-manipal-professor-with-young-scientist-award/articleshow/63447042.cms)
+- Related Press Coverage: **[Click here]**(https://timesofindia.indiatimes.com/city/mangaluru/indian-science-congress-honours-mit-manipal-professor-with-young-scientist-award/articleshow/63447042.cms)
 
 
 ## Selected Publications:
 - Manohara Pai, Vaibhav Mehrotra, Ujjwal Verma and R. M. Pai, "Improved Semantic Segmentation of Water bodies and Land In SAR Images using Generative Adversarial Networks", _International Journal of Semantic Computing, (Accepted, In Press)_
 
 - S. Girisha, Manohara M. Pai, Ujjwal Verma and Radhika Pai, "Performance Analysis of Semantic Segmentation Algorithms for Finely Annotated New UAV Aerial Video Dataset (ManipalUAVid)," in _IEEE Access_, vol. 7, pp. 136239-136253, 2019.
-doi: 10.1109/ACCESS.2019.2941026  [PDF](https://github.com/uverma/uverma.github.io/blob/master/_data/IEEE%20Access%20GirishPgNb.pdf) [Project Page](https://github.com/uverma/ManipalUAVid)
+doi: 10.1109/ACCESS.2019.2941026  **[PDF]**(https://github.com/uverma/uverma.github.io/blob/master/_data/IEEE%20Access%20GirishPgNb.pdf) **[Project Page]**(https://github.com/uverma/ManipalUAVid)
 
 - Manohara Pai, Vaibhav Mehrotra, S. Aiyar, Ujjwal Verma and R. M. Pai, "Automatic Segmentation of River and Land in SAR Images: A Deep Learning Approach," _2019 IEEE Second International Conference on Artificial Intelligence and Knowledge Engineering (AIKE)_, Sardinia, Italy, 2019, pp. 15-20.
-doi: 10.1109/AIKE.2019.00011 [PDF](https://github.com/uverma/uverma.github.io/blob/master/_data/AIKE-Vaibhav-2019.pdf)
+doi: 10.1109/AIKE.2019.00011 **[PDF]**(https://github.com/uverma/uverma.github.io/blob/master/_data/AIKE-Vaibhav-2019.pdf)
 
 - S Girisha, Manohara Pai, Ujjwal Verma, Radhika Pai, "Semantic segmentation of UAV aerial videos using convolutional neural networks", _2019 IEEE Second International Conference on Artificial Intelligence and Knowledge Engineering (AIKE)_, Sardinia, Italy, 2019, pp. 21-27. doi: 10.1109/AIKE.2019.00012 
 
