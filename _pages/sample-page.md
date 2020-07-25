@@ -17,7 +17,9 @@ Received "ISCA Young Scientist Award 2017-18" by Indian Science Congress Associa
 
 
 ## Selected Publications:
-- Manohara Pai, Vaibhav Mehrotra, Ujjwal Verma and R. M. Pai, "Improved Semantic Segmentation of Water bodies and Land In SAR Images using Generative Adversarial Networks", _International Journal of Semantic Computing, (Accepted, In Press)_
+- Anusha Prabhu, Giri Nandagopal, Prakash Peralam Yegneswaran, Vijendra Prabhu, Ujjwal Verma, and Naresh Mani, "Thread integrated smart-phone imaging facilitates early turning point colorimetric assay for microbes" _RSC Advances (Royal Society of Chemistry Journal)_, Vol 10, Issue 45, pp 26853-26861, 2020, DOI = https://doi.org/10.1039/D0RA05190J 
+
+- Manohara Pai, Vaibhav Mehrotra, Ujjwal Verma and R. M. Pai, "Improved Semantic Segmentation of Water bodies and Land In SAR Images using Generative Adversarial Networks", _International Journal of Semantic Computing, _ Vol 14, No. 1, p. 55-69, 2020
 
 - S. Girisha, Manohara M. Pai, Ujjwal Verma and Radhika Pai, "Performance Analysis of Semantic Segmentation Algorithms for Finely Annotated New UAV Aerial Video Dataset (ManipalUAVid)," in _IEEE Access_, vol. 7, pp. 136239-136253, 2019.
 doi: 10.1109/ACCESS.2019.2941026  [PDF](https://github.com/uverma/uverma.github.io/blob/master/_data/IEEE%20Access%20GirishPgNb.pdf) [Project Page](https://github.com/uverma/ManipalUAVid)
