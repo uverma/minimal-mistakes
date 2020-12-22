@@ -28,4 +28,4 @@ Research Interests: Image Segmentation, Computer Vision, and Category Recognitio
 2. Website Chair, IEEE Mangalore Sub-Section (2018).
 3. Reviewer for IEEE Transactions on Image Processing.
 4. Reviewer for several international conferences (International Conference on Medical Image Computing and Computer Assisted Intervention MICCAI 2017, TENCON 2016- IEEE Region 10 Conference etc).
-5. Publicity Chair, [IEEE DISCOVER 2018](http://www.ieee-discover.org/)
+5. Publicity Chair, [IEEE DISCOVER 2018](http://www.ieee-discover.org/) 
