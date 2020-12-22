@@ -152,6 +152,8 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
+minimal_mistakes_skin: "contrast"
+
 
 # Markdown Processing
 kramdown:
